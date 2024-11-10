@@ -15,7 +15,7 @@ Wallpaper and Lockscreen Easy.exe
 
 
 
-**Neste exemplo estamos fazendo a conversar da instalação do 7-Zip (7z2407-x64.exe) para o arquivo .intunewin.**
+**Neste exemplo estamos inserindo dois arquivos Wallpaper (WW_win95_v004_dark_post.png) e Lockscreen (ws_Microsoft_Windows_8_Metro_Logo_1920x1080.png) para criação dos arquivos scripts.**
 
  
  **1.** Escreva a versão.
