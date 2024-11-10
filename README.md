@@ -4,9 +4,9 @@ Ferramenta que cria os scripts para aplicar o papel de parede da área de trabal
 
 ## **Conteúdos:**
 
-IntuneWinAppUtilGUI.ps1
+Wallpaper and Lockscreen Easy.ps1
 
-IntuneWinAppUtilGUI.exe
+Wallpaper and Lockscreen Easy.exe
 
 
 ## **Instruções:**
