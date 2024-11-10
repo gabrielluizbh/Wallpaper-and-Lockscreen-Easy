@@ -11,7 +11,8 @@ Wallpaper and Lockscreen Easy.exe
 
 ## **Instruções:**
 
-![image](https://github.com/user-attachments/assets/28e8025a-2b17-4626-ae96-c7c5a899959c)
+![image](https://github.com/user-attachments/assets/b095e9cb-9be8-48e7-895c-6f845ec9e8e4)
+
 
 
 **Neste exemplo estamos fazendo a conversar da instalação do 7-Zip (7z2407-x64.exe) para o arquivo .intunewin.**
