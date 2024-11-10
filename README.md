@@ -20,11 +20,11 @@ Wallpaper and Lockscreen Easy.exe
  
  **1.** Escreva a versão.
 
- **2.**  Selecione o arquivo IntuneWinAppUtil.exe, local em que o arquivo IntuneWinAppUtil.exe foi salvo.
+ **2.**  Selecione o arquivo Wallpaper (Papel de parede da área de trabalho do Windows). O arquivo pode ser no formato jpg, jpeg e png.
 
- **3.** Selecione uma pasta. Todos os arquivos nesta pasta serão compactados em um arquivo .intunewin.
+ **3.** Selecione o arquivo Lockscreen. (Papel de parede da tela de bloqueio do Windows). O arquivo pode ser no formato jpg, jpeg e png.
 
- **4.** Selecione o arquivo de instalação.
+ **4.** Executa a criação dos scripts.
 
  **5.** Selecione o local aonde o arquivo .intunewin será criado.
 
