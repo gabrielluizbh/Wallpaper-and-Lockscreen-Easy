@@ -34,6 +34,10 @@ Wallpaper and Lockscreen Easy.exe
  
  **7.** Acesse o link do Blog do Gabriel Luiz. (Opcional)
 
+
+ ![image](https://github.com/user-attachments/assets/9839332f-6eda-4dc8-8852-480b3d93f8b9)
+
+
    
 ## **Mais informações:**
 
