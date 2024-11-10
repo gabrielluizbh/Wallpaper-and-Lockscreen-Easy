@@ -11,7 +11,8 @@ Wallpaper and Lockscreen Easy.exe
 
 ## **Instruções:**
 
-![image](https://github.com/user-attachments/assets/b095e9cb-9be8-48e7-895c-6f845ec9e8e4)
+![image](https://github.com/user-attachments/assets/1f3be777-ac86-4c78-8984-7f3912d2a740)
+
 
 
 
