@@ -26,13 +26,13 @@ Wallpaper and Lockscreen Easy.exe
 
  **4.** Executa a criação dos scripts.
 
- **5.** Selecione o local aonde o arquivo .intunewin será criado.
+ **5.** Limpe todos os campos. (Opcional)
 
- **6.** Após, selecionar todos os campos clique em execução para executar a conversão.
+ **6.** Baixar a ferramenta IntuneWinAppUtilGUI. (Opcional) Ou realize a conversão com outra ferramenta.
 
  **7.** Limpe todos os campos. (Opcional)
  
- **8.** Acesse o link do Blog do Gabriel Luiz. (Opcional)
+ **7.** Acesse o link do Blog do Gabriel Luiz. (Opcional)
 
    
 ## **Mais informações:**
