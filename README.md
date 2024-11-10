@@ -45,6 +45,6 @@ Wallpaper and Lockscreen Easy.exe
    
 ## **Mais informações:**
 
-**Para maior entendimento para execução deste aplicativo acesse o link do artigo: https://gabrielluiz.com/2024/08/intunewinapputilgui/**
+**Para maior entendimento para execução deste aplicativo acesse o link do artigo: https://gabrielluiz.com/2024/11/wallpaper-and-lockscreen-easy/**
 
 **Créditos - Gabriel Luiz - www.gabrielluiz.com**
