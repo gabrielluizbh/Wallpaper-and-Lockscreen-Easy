@@ -17,7 +17,7 @@ Wallpaper and Lockscreen Easy.exe
 **Neste exemplo estamos fazendo a conversar da instalação do 7-Zip (7z2407-x64.exe) para o arquivo .intunewin.**
 
  
- **1.** Baixei o arquivo IntuneWinAppUtil.exe e salve em qualquer pasta.
+ **1.** Escreva a versão.
 
  **2.**  Selecione o arquivo IntuneWinAppUtil.exe, local em que o arquivo IntuneWinAppUtil.exe foi salvo.
 
