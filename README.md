@@ -8,6 +8,8 @@ Wallpaper and Lockscreen Easy.ps1
 
 Wallpaper and Lockscreen Easy.exe
 
+wle-icone.png
+
 
 ## **Instruções:**
 
