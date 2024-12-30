@@ -48,6 +48,6 @@ wle-icone.png
    
 ## **Mais informações:**
 
-**Para maior entendimento para execução deste aplicativo acesse o link do artigo: https://gabrielluiz.com/2024/11/wallpaper-and-lockscreen-easy/**
+**Para maior entendimento para execução deste aplicativo acesse o link do artigo: https://gabrielluiz.com/2025/01/wallpaper-and-lockscreen-easy/**
 
 **Créditos - Gabriel Luiz - www.gabrielluiz.com**
