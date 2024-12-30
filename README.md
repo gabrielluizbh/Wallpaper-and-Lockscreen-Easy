@@ -34,8 +34,6 @@ wle-icone.png
 
  **6.** Baixar a ferramenta IntuneWinAppUtilGUI. (Opcional) Ou realize a conversão com outra ferramenta.
 
- **7.** Limpe todos os campos. (Opcional)
- 
  **7.** Acesse o link do Blog do Gabriel Luiz. (Opcional)
 
 
