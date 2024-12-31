@@ -13,8 +13,8 @@ wle-icone.png
 
 ## **Instruções:**
 
-![image](https://github.com/user-attachments/assets/13692cf5-c2f3-4f4f-a70e-612501190178)
 
+![2024-12-31_15-37-35](https://github.com/user-attachments/assets/64f9db9d-4696-4226-b930-decb0f864cbc)
 
 
 
